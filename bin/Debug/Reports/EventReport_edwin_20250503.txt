@@ -1,0 +1,20 @@
+Event report
+====================
+Event name: edwin
+Event type: mouawad
+Event location: baytak
+Event date: 5/3/2025
+Event time: 10:30 AM
+
+Guests
+Guest name: edw
+Guest last name: wd
+Guest age: 76
+Guest phone number: 11223444
+Guest email: e@gmail.com
+
+Tasks
+Task name: edwin
+Task description: edaw
+Task priority: mou
+

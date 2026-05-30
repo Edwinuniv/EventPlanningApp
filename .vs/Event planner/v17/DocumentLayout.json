@@ -1,0 +1,494 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\drs\\edwin dares\\1ere anne\\info\\INFO 2\\Event planner\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{23843CAF-F7CF-4131-A24E-0A780B849E1D}|Event planner.csproj|c:\\users\\user\\desktop\\drs\\edwin dares\\1ere anne\\info\\info 2\\event planner\\reports.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23843CAF-F7CF-4131-A24E-0A780B849E1D}|Event planner.csproj|solutionrelative:reports.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23843CAF-F7CF-4131-A24E-0A780B849E1D}|Event planner.csproj|C:\\Users\\user\\Desktop\\drs\\edwin dares\\1ere anne\\info\\INFO 2\\Event planner\\mainpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{23843CAF-F7CF-4131-A24E-0A780B849E1D}|Event planner.csproj|solutionrelative:mainpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23843CAF-F7CF-4131-A24E-0A780B849E1D}|Event planner.csproj|C:\\Users\\user\\Desktop\\drs\\edwin dares\\1ere anne\\info\\INFO 2\\Event planner\\mainpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23843CAF-F7CF-4131-A24E-0A780B849E1D}|Event planner.csproj|solutionrelative:mainpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23843CAF-F7CF-4131-A24E-0A780B849E1D}|Event planner.csproj|C:\\Users\\user\\Desktop\\drs\\edwin dares\\1ere anne\\info\\INFO 2\\Event planner\\confirmcode_page.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23843CAF-F7CF-4131-A24E-0A780B849E1D}|Event planner.csproj|solutionrelative:confirmcode_page.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23843CAF-F7CF-4131-A24E-0A780B849E1D}|Event planner.csproj|C:\\Users\\user\\Desktop\\drs\\edwin dares\\1ere anne\\info\\INFO 2\\Event planner\\confirmcode_page.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{23843CAF-F7CF-4131-A24E-0A780B849E1D}|Event planner.csproj|solutionrelative:confirmcode_page.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23843CAF-F7CF-4131-A24E-0A780B849E1D}|Event planner.csproj|C:\\Users\\user\\Desktop\\drs\\edwin dares\\1ere anne\\info\\INFO 2\\Event planner\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23843CAF-F7CF-4131-A24E-0A780B849E1D}|Event planner.csproj|solutionrelative:event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23843CAF-F7CF-4131-A24E-0A780B849E1D}|Event planner.csproj|C:\\Users\\user\\Desktop\\drs\\edwin dares\\1ere anne\\info\\INFO 2\\Event planner\\eventform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23843CAF-F7CF-4131-A24E-0A780B849E1D}|Event planner.csproj|solutionrelative:eventform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23843CAF-F7CF-4131-A24E-0A780B849E1D}|Event planner.csproj|C:\\Users\\user\\Desktop\\drs\\edwin dares\\1ere anne\\info\\INFO 2\\Event planner\\eventform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{23843CAF-F7CF-4131-A24E-0A780B849E1D}|Event planner.csproj|solutionrelative:eventform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23843CAF-F7CF-4131-A24E-0A780B849E1D}|Event planner.csproj|C:\\Users\\user\\Desktop\\drs\\edwin dares\\1ere anne\\info\\INFO 2\\Event planner\\feedbackform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23843CAF-F7CF-4131-A24E-0A780B849E1D}|Event planner.csproj|solutionrelative:feedbackform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23843CAF-F7CF-4131-A24E-0A780B849E1D}|Event planner.csproj|C:\\Users\\user\\Desktop\\drs\\edwin dares\\1ere anne\\info\\INFO 2\\Event planner\\feedbackform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{23843CAF-F7CF-4131-A24E-0A780B849E1D}|Event planner.csproj|solutionrelative:feedbackform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23843CAF-F7CF-4131-A24E-0A780B849E1D}|Event planner.csproj|C:\\Users\\user\\Desktop\\drs\\edwin dares\\1ere anne\\info\\INFO 2\\Event planner\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23843CAF-F7CF-4131-A24E-0A780B849E1D}|Event planner.csproj|solutionrelative:loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23843CAF-F7CF-4131-A24E-0A780B849E1D}|Event planner.csproj|C:\\Users\\user\\Desktop\\drs\\edwin dares\\1ere anne\\info\\INFO 2\\Event planner\\notificationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{23843CAF-F7CF-4131-A24E-0A780B849E1D}|Event planner.csproj|solutionrelative:notificationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23843CAF-F7CF-4131-A24E-0A780B849E1D}|Event planner.csproj|C:\\Users\\user\\Desktop\\drs\\edwin dares\\1ere anne\\info\\INFO 2\\Event planner\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23843CAF-F7CF-4131-A24E-0A780B849E1D}|Event planner.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23843CAF-F7CF-4131-A24E-0A780B849E1D}|Event planner.csproj|C:\\Users\\user\\Desktop\\drs\\edwin dares\\1ere anne\\info\\INFO 2\\Event planner\\reportsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23843CAF-F7CF-4131-A24E-0A780B849E1D}|Event planner.csproj|solutionrelative:reportsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23843CAF-F7CF-4131-A24E-0A780B849E1D}|Event planner.csproj|C:\\Users\\user\\Desktop\\drs\\edwin dares\\1ere anne\\info\\INFO 2\\Event planner\\reportsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{23843CAF-F7CF-4131-A24E-0A780B849E1D}|Event planner.csproj|solutionrelative:reportsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23843CAF-F7CF-4131-A24E-0A780B849E1D}|Event planner.csproj|C:\\Users\\user\\Desktop\\drs\\edwin dares\\1ere anne\\info\\INFO 2\\Event planner\\rsvptracking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23843CAF-F7CF-4131-A24E-0A780B849E1D}|Event planner.csproj|solutionrelative:rsvptracking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23843CAF-F7CF-4131-A24E-0A780B849E1D}|Event planner.csproj|C:\\Users\\user\\Desktop\\drs\\edwin dares\\1ere anne\\info\\INFO 2\\Event planner\\rsvptrackingform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23843CAF-F7CF-4131-A24E-0A780B849E1D}|Event planner.csproj|solutionrelative:rsvptrackingform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23843CAF-F7CF-4131-A24E-0A780B849E1D}|Event planner.csproj|C:\\Users\\user\\Desktop\\drs\\edwin dares\\1ere anne\\info\\INFO 2\\Event planner\\rsvptrackingform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{23843CAF-F7CF-4131-A24E-0A780B849E1D}|Event planner.csproj|solutionrelative:rsvptrackingform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23843CAF-F7CF-4131-A24E-0A780B849E1D}|Event planner.csproj|C:\\Users\\user\\Desktop\\drs\\edwin dares\\1ere anne\\info\\INFO 2\\Event planner\\signup_page.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23843CAF-F7CF-4131-A24E-0A780B849E1D}|Event planner.csproj|solutionrelative:signup_page.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23843CAF-F7CF-4131-A24E-0A780B849E1D}|Event planner.csproj|C:\\Users\\user\\Desktop\\drs\\edwin dares\\1ere anne\\info\\INFO 2\\Event planner\\signup_page.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{23843CAF-F7CF-4131-A24E-0A780B849E1D}|Event planner.csproj|solutionrelative:signup_page.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23843CAF-F7CF-4131-A24E-0A780B849E1D}|Event planner.csproj|C:\\Users\\user\\Desktop\\drs\\edwin dares\\1ere anne\\info\\INFO 2\\Event planner\\taskform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23843CAF-F7CF-4131-A24E-0A780B849E1D}|Event planner.csproj|solutionrelative:taskform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23843CAF-F7CF-4131-A24E-0A780B849E1D}|Event planner.csproj|C:\\Users\\user\\Desktop\\drs\\edwin dares\\1ere anne\\info\\INFO 2\\Event planner\\taskform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{23843CAF-F7CF-4131-A24E-0A780B849E1D}|Event planner.csproj|solutionrelative:taskform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23843CAF-F7CF-4131-A24E-0A780B849E1D}|Event planner.csproj|C:\\Users\\user\\Desktop\\drs\\edwin dares\\1ere anne\\info\\INFO 2\\Event planner\\tasks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23843CAF-F7CF-4131-A24E-0A780B849E1D}|Event planner.csproj|solutionrelative:tasks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23843CAF-F7CF-4131-A24E-0A780B849E1D}|Event planner.csproj|C:\\Users\\user\\Desktop\\drs\\edwin dares\\1ere anne\\info\\INFO 2\\Event planner\\templateform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23843CAF-F7CF-4131-A24E-0A780B849E1D}|Event planner.csproj|solutionrelative:templateform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23843CAF-F7CF-4131-A24E-0A780B849E1D}|Event planner.csproj|C:\\Users\\user\\Desktop\\drs\\edwin dares\\1ere anne\\info\\INFO 2\\Event planner\\templateform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{23843CAF-F7CF-4131-A24E-0A780B849E1D}|Event planner.csproj|solutionrelative:templateform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23843CAF-F7CF-4131-A24E-0A780B849E1D}|Event planner.csproj|C:\\Users\\user\\Desktop\\drs\\edwin dares\\1ere anne\\info\\INFO 2\\Event planner\\template.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23843CAF-F7CF-4131-A24E-0A780B849E1D}|Event planner.csproj|solutionrelative:template.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23843CAF-F7CF-4131-A24E-0A780B849E1D}|Event planner.csproj|C:\\Users\\user\\Desktop\\drs\\edwin dares\\1ere anne\\info\\INFO 2\\Event planner\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23843CAF-F7CF-4131-A24E-0A780B849E1D}|Event planner.csproj|solutionrelative:user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23843CAF-F7CF-4131-A24E-0A780B849E1D}|Event planner.csproj|C:\\Users\\user\\Desktop\\drs\\edwin dares\\1ere anne\\info\\INFO 2\\Event planner\\budgetform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{23843CAF-F7CF-4131-A24E-0A780B849E1D}|Event planner.csproj|solutionrelative:budgetform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23843CAF-F7CF-4131-A24E-0A780B849E1D}|Event planner.csproj|C:\\Users\\user\\Desktop\\drs\\edwin dares\\1ere anne\\info\\INFO 2\\Event planner\\budget.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23843CAF-F7CF-4131-A24E-0A780B849E1D}|Event planner.csproj|solutionrelative:budget.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23843CAF-F7CF-4131-A24E-0A780B849E1D}|Event planner.csproj|C:\\Users\\user\\Desktop\\drs\\edwin dares\\1ere anne\\info\\INFO 2\\Event planner\\notificationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23843CAF-F7CF-4131-A24E-0A780B849E1D}|Event planner.csproj|solutionrelative:notificationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 13,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Confirmcode_page.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\drs\\edwin dares\\1ere anne\\info\\INFO 2\\Event planner\\Confirmcode_page.cs",
+              "RelativeDocumentMoniker": "Confirmcode_page.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Event planner\\Confirmcode_page.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Event planner\\Confirmcode_page.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T19:07:09.761Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Confirmcode_page.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\drs\\edwin dares\\1ere anne\\info\\INFO 2\\Event planner\\Confirmcode_page.cs",
+              "RelativeDocumentMoniker": "Confirmcode_page.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\drs\\edwin dares\\1ere anne\\info\\INFO 2\\Event planner\\Confirmcode_page.cs",
+              "RelativeToolTip": "Confirmcode_page.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAUwDcAAABgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T19:07:10.839Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FeedbackForm.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\drs\\edwin dares\\1ere anne\\info\\INFO 2\\Event planner\\FeedbackForm.cs",
+              "RelativeDocumentMoniker": "FeedbackForm.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\drs\\edwin dares\\1ere anne\\info\\INFO 2\\Event planner\\FeedbackForm.cs",
+              "RelativeToolTip": "FeedbackForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T19:09:22.677Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainPage.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\drs\\edwin dares\\1ere anne\\info\\INFO 2\\Event planner\\MainPage.cs",
+              "RelativeDocumentMoniker": "MainPage.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\drs\\edwin dares\\1ere anne\\info\\INFO 2\\Event planner\\MainPage.cs [Design]",
+              "RelativeToolTip": "MainPage.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T19:06:28.64Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainPage.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\drs\\edwin dares\\1ere anne\\info\\INFO 2\\Event planner\\MainPage.cs",
+              "RelativeDocumentMoniker": "MainPage.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\drs\\edwin dares\\1ere anne\\info\\INFO 2\\Event planner\\MainPage.cs",
+              "RelativeToolTip": "MainPage.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAYwDEAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T19:06:30.669Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Event.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\drs\\edwin dares\\1ere anne\\info\\INFO 2\\Event planner\\Event.cs",
+              "RelativeDocumentMoniker": "Event.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\drs\\edwin dares\\1ere anne\\info\\INFO 2\\Event planner\\Event.cs",
+              "RelativeToolTip": "Event.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAzwF8AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T19:06:45.057Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FeedbackForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\drs\\edwin dares\\1ere anne\\info\\INFO 2\\Event planner\\FeedbackForm.cs",
+              "RelativeDocumentMoniker": "FeedbackForm.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Event planner\\FeedbackForm.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Event planner\\FeedbackForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T18:20:28.992Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LoginForm.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\drs\\edwin dares\\1ere anne\\info\\INFO 2\\Event planner\\LoginForm.cs",
+              "RelativeDocumentMoniker": "LoginForm.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\drs\\edwin dares\\1ere anne\\info\\INFO 2\\Event planner\\LoginForm.cs",
+              "RelativeToolTip": "LoginForm.cs",
+              "ViewState": "AgIAAAwAAABgAAAAAAA2wBYAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T19:01:21.237Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EventForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\drs\\edwin dares\\1ere anne\\info\\INFO 2\\Event planner\\EventForm.cs",
+              "RelativeDocumentMoniker": "EventForm.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Event planner\\EventForm.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Event planner\\EventForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T19:06:58.181Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EventForm.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\drs\\edwin dares\\1ere anne\\info\\INFO 2\\Event planner\\EventForm.cs",
+              "RelativeDocumentMoniker": "EventForm.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\drs\\edwin dares\\1ere anne\\info\\INFO 2\\Event planner\\EventForm.cs",
+              "RelativeToolTip": "EventForm.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAswLgBAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T19:06:59.336Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "NotificationForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\drs\\edwin dares\\1ere anne\\info\\INFO 2\\Event planner\\NotificationForm.cs",
+              "RelativeDocumentMoniker": "NotificationForm.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Event planner\\NotificationForm.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Event planner\\NotificationForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T18:23:12.847Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\drs\\edwin dares\\1ere anne\\info\\INFO 2\\Event planner\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\drs\\edwin dares\\1ere anne\\info\\INFO 2\\Event planner\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T12:38:14.71Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Reports.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\drs\\edwin dares\\1ere anne\\info\\INFO 2\\Event planner\\Reports.cs",
+              "RelativeDocumentMoniker": "Reports.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\drs\\edwin dares\\1ere anne\\info\\INFO 2\\Event planner\\Reports.cs",
+              "RelativeToolTip": "Reports.cs",
+              "ViewState": "AgIAADkAAADAzMzMzMwqwGQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T19:08:10.841Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ReportsForm.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\drs\\edwin dares\\1ere anne\\info\\INFO 2\\Event planner\\ReportsForm.cs",
+              "RelativeDocumentMoniker": "ReportsForm.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\drs\\edwin dares\\1ere anne\\info\\INFO 2\\Event planner\\ReportsForm.cs",
+              "RelativeToolTip": "ReportsForm.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAADwvysAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T19:12:06.573Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ReportsForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\drs\\edwin dares\\1ere anne\\info\\INFO 2\\Event planner\\ReportsForm.cs",
+              "RelativeDocumentMoniker": "ReportsForm.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Event planner\\ReportsForm.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Event planner\\ReportsForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T19:08:31.576Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "RsvpTracking.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\drs\\edwin dares\\1ere anne\\info\\INFO 2\\Event planner\\RsvpTracking.cs",
+              "RelativeDocumentMoniker": "RsvpTracking.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\drs\\edwin dares\\1ere anne\\info\\INFO 2\\Event planner\\RsvpTracking.cs",
+              "RelativeToolTip": "RsvpTracking.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwv2QAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T19:07:44.207Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "RSVPtrackingForm.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\drs\\edwin dares\\1ere anne\\info\\INFO 2\\Event planner\\RSVPtrackingForm.cs",
+              "RelativeDocumentMoniker": "RSVPtrackingForm.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\drs\\edwin dares\\1ere anne\\info\\INFO 2\\Event planner\\RSVPtrackingForm.cs",
+              "RelativeToolTip": "RSVPtrackingForm.cs",
+              "ViewState": "AgIAAKkBAAAAmJmZmZkRwIsBAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T19:08:01.347Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "RSVPtrackingForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\drs\\edwin dares\\1ere anne\\info\\INFO 2\\Event planner\\RSVPtrackingForm.cs",
+              "RelativeDocumentMoniker": "RSVPtrackingForm.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Event planner\\RSVPtrackingForm.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Event planner\\RSVPtrackingForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T19:07:57.358Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "SignUp_page.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\drs\\edwin dares\\1ere anne\\info\\INFO 2\\Event planner\\SignUp_page.cs",
+              "RelativeDocumentMoniker": "SignUp_page.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\drs\\edwin dares\\1ere anne\\info\\INFO 2\\Event planner\\SignUp_page.cs",
+              "RelativeToolTip": "SignUp_page.cs",
+              "ViewState": "AgIAAAcAAAAAmZmZmZkhwIoAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T19:06:09.546Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "SignUp_page.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\drs\\edwin dares\\1ere anne\\info\\INFO 2\\Event planner\\SignUp_page.cs",
+              "RelativeDocumentMoniker": "SignUp_page.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Event planner\\SignUp_page.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Event planner\\SignUp_page.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T19:06:08.149Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "TaskForm.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\drs\\edwin dares\\1ere anne\\info\\INFO 2\\Event planner\\TaskForm.cs",
+              "RelativeDocumentMoniker": "TaskForm.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\drs\\edwin dares\\1ere anne\\info\\INFO 2\\Event planner\\TaskForm.cs",
+              "RelativeToolTip": "TaskForm.cs",
+              "ViewState": "AgIAAFwBAAAAAAAAAAAmwH0BAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T19:07:36.84Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "TaskForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\drs\\edwin dares\\1ere anne\\info\\INFO 2\\Event planner\\TaskForm.cs",
+              "RelativeDocumentMoniker": "TaskForm.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Event planner\\TaskForm.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Event planner\\TaskForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T19:07:35.639Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Tasks.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\drs\\edwin dares\\1ere anne\\info\\INFO 2\\Event planner\\Tasks.cs",
+              "RelativeDocumentMoniker": "Tasks.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\drs\\edwin dares\\1ere anne\\info\\INFO 2\\Event planner\\Tasks.cs",
+              "RelativeToolTip": "Tasks.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAADwv2gAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T19:07:27.61Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "TemplateForm.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\drs\\edwin dares\\1ere anne\\info\\INFO 2\\Event planner\\TemplateForm.cs",
+              "RelativeDocumentMoniker": "TemplateForm.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\drs\\edwin dares\\1ere anne\\info\\INFO 2\\Event planner\\TemplateForm.cs",
+              "RelativeToolTip": "TemplateForm.cs",
+              "ViewState": "AgIAAJgAAAAACAAAAAAIwFMAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T19:08:50.099Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "TemplateForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\drs\\edwin dares\\1ere anne\\info\\INFO 2\\Event planner\\TemplateForm.cs",
+              "RelativeDocumentMoniker": "TemplateForm.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Event planner\\TemplateForm.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Event planner\\TemplateForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T19:08:48.628Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Template.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\drs\\edwin dares\\1ere anne\\info\\INFO 2\\Event planner\\Template.cs",
+              "RelativeDocumentMoniker": "Template.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\drs\\edwin dares\\1ere anne\\info\\INFO 2\\Event planner\\Template.cs",
+              "RelativeToolTip": "Template.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T19:08:40.376Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\drs\\edwin dares\\1ere anne\\info\\INFO 2\\Event planner\\User.cs",
+              "RelativeDocumentMoniker": "User.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\drs\\edwin dares\\1ere anne\\info\\INFO 2\\Event planner\\User.cs",
+              "RelativeToolTip": "User.cs",
+              "ViewState": "AgIAAGIAAAAAAAAAAAAzwIUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T18:58:27.186Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "BudgetForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\drs\\edwin dares\\1ere anne\\info\\INFO 2\\Event planner\\BudgetForm.cs",
+              "RelativeDocumentMoniker": "BudgetForm.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Event planner\\BudgetForm.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Event planner\\BudgetForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T11:12:41.867Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Budget.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\drs\\edwin dares\\1ere anne\\info\\INFO 2\\Event planner\\Budget.cs",
+              "RelativeDocumentMoniker": "Budget.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\drs\\edwin dares\\1ere anne\\info\\INFO 2\\Event planner\\Budget.cs",
+              "RelativeToolTip": "Budget.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T19:09:37.71Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "NotificationForm.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\drs\\edwin dares\\1ere anne\\info\\INFO 2\\Event planner\\NotificationForm.cs",
+              "RelativeDocumentMoniker": "NotificationForm.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\drs\\edwin dares\\1ere anne\\info\\INFO 2\\Event planner\\NotificationForm.cs",
+              "RelativeToolTip": "NotificationForm.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAAwD0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T19:09:07.905Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

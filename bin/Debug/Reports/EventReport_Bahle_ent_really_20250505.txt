@@ -1,0 +1,12 @@
+Event report
+====================
+Event name: Bahle ent really
+Event type: w2
+Event location: 312
+Event date: 5/5/2025
+Event time: 12:00 AM
+
+No guests have been added
+
+No tasks have been added
+

@@ -1,0 +1,24 @@
+Event report
+====================
+Event name: edwin
+Event type: test
+Event location: beit
+Event date: 5/5/2025
+Event time: 12:00 AM
+
+Guests
+Guest name: edwin
+Guest last name: mopuawade
+Guest age: 23
+Guest phone number: 31242432
+Guest email: edy6@gmail.com
+
+Tasks
+Task name: y
+Task description: c
+Task priority: w
+
+Task name: EDWIN
+Task description: Hello
+Task priority: Mouawad
+

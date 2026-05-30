@@ -1,0 +1,15 @@
+Event report
+====================
+Event name: Edwin
+Event type: Mouawad
+Event location: Hello
+Event date: 5/8/2025
+Event time: 12:00 AM
+
+No guests have been added
+
+Tasks
+Task name: edw
+Task description: ew
+Task priority: ed
+
